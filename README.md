@@ -36,9 +36,7 @@ can change the password for that user
 
 can get the list of post
 	http://localhost/borntest/public/post/list
-		parameters:
-			email:
-			password:
+		
 
 
 can create a new post
